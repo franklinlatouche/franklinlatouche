@@ -3,7 +3,7 @@
 Cyber Operations Engineering student at the University of Arizona. I focus on offensive and defensive security: pentesting, OSINT, and systems-level work in x86 assembly, C, and Python. I build labs and tools to learn how attacks and defenses actually work under the hood, not just in theory.
 
 **Currently:**
-- Studying assembly programming and C for security professionals (CYBV 471 / CYBR 470)
+- Studying assembly programming and C for security professionals
 - Running an AWS-based red team / blue team homelab
 - Building a lightweight SIEM tool for Linux servers
 
