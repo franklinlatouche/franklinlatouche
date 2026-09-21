@@ -17,9 +17,6 @@ Cloud-based pentesting and defensive monitoring lab on AWS. A Kali attacker box 
 **[SentryLog](https://github.com/franklinlatouche/SentryLog)**
 A lightweight SIEM for Linux servers. Reads log files, normalizes them into structured events, runs detection rules against those events, and produces security alerts, aimed at small-to-medium environments where a full enterprise SIEM is overkill.
 
-**[NerdMiner](https://github.com/franklinlatouche/NerdMiner)**
-Solo Bitcoin mining project on ESP32 "Cheap Yellow Display" hardware. Two boards running different firmware stacks, with hands-on debugging of WiFi stability, share-rejection bugs, and pool connectivity at the firmware level.
-
 **[ESP32 Stealth Network Canary](https://github.com/franklinlatouche/ESP32-Stealth-Network-Canary)**
 A low-interaction intrusion-detection tripwire built with MicroPython on an ESP32-S3. Runs a TCP honeypot on commonly-targeted ports with deceptive service banners, detects DNS hijacking and wildcard-redirect attacks, and fires webhook alerts with visual status via an onboard RGB LED.
 
